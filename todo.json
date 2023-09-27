@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Do something nice for someone I care about",
+      "completed": true,
+      "userId": 26
+    },
+    {
+      "id": 3,
+      "todo": "Watch a classic movie",
+      "completed": false,
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "completed": false,
+      "userId": 48
+    },
+    {
+      "id": 6,
+      "todo": "Bake pastries for me and neighbor",
+      "completed": false,
+      "userId": 39
+    },
+    {
+      "id": 8,
+      "todo": "Write a thank you letter to an influential person in my life",
+      "completed": true,
+      "userId": 13
+    },
+    {
+      "id": 10,
+      "todo": "Have a football scrimmage with some friends",
+      "completed": false,
+      "userId": 19
+    },
+    {
+      "id": 11,
+      "todo": "the new 2nd todo added",
+      "completed": true,
+      "userID": 25
+    }
+  ]
+}
